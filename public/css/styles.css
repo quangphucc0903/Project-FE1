@@ -1,0 +1,168 @@
+/*header*/
+
+.cre a{
+    text-decoration: none;
+    background: #d43811;
+    padding: 10px 30px;
+    color: #fff;
+    position: fixed;
+    right: 1%;
+    top: 5%;
+    border-radius: 3px;
+}
+
+.logo{
+    position: absolute;
+    top: 5%;
+    left: 40px;
+}
+
+.contain-hd{
+    font-size: 4em;
+    font-weight: bold;
+    color: #1a1a1a;
+    position: absolute;
+    top: 13%;
+}
+.contain-hd2{
+    color: #444444;
+    font-size: 1.8em;
+    font-style: italic;
+    position: absolute;
+    top: 53%;
+}
+
+
+.pur a{
+    display: inline-block;
+    background: #000;
+    font-weight: bold;
+    border: #000;
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    color: #fff;
+    position: absolute;
+    top: 57%;
+}
+.pur a:hover{
+    background: yellow;
+    color: #444444;
+}
+
+/* main contain*/
+.our-awe h3{
+    text-align: center;
+}
+
+.our-awe{
+    margin-top: 100px;
+}
+
+.our-awe p{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img-res{
+    height: auto;
+    width: 100%;
+}
+
+.title{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.funi{
+    display: inline-block;
+    border: 2px solid #fff;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 10px;
+    text-align: center;
+    color: #1a1a1a;
+}
+.funi:hover{
+    display: inline-block;
+    border: 2px solid #fff;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 10px;
+    background: yellow;
+    color: #1a1a1a;
+}
+
+.oos{
+    border-top: 5px solid #e1e1e1;
+    margin-top: 100px;
+}
+
+.op-title{
+    font-size: 2em;
+    padding-top: 30px;
+}
+
+.sfn{
+    display: inline-block;
+    background: #d43811;
+    padding: 10px 40px;
+    float: right;
+    margin-top: -100px;
+    text-decoration: none;
+    color: #fff;
+}
+.sfn:hover{
+    color: #fff;
+}
+
+.orb{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.contain-title{
+    margin-top: 10px;
+}
+
+.img-ob{
+    height: auto;
+    width: 100%;
+}
+
+.btn-title{
+    text-decoration: none;
+    font-weight: bold;
+    color: #1a1a1a;
+}
+.btn-title:hover{
+    font-weight: bold;
+    color: yellow;
+}
+
+/* footer */
+.bg-ft{
+    margin-top: 100px;
+    background: #070202b6;
+}
+
+.bg-ft span{
+    color: #e1e1e1;
+}
+
+.btn-contain{
+    padding: 20px 10px;
+    color: lightskyblue;
+}
+
+.mail{
+    text-decoration: none;
+    color: #e1e1e1;
+}
+.mail:hover{
+    color: #e1e1e1;
+}
